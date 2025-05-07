@@ -14,3 +14,6 @@ I'm originally from Dallas, Texas, and I have a passion for front-end developmen
 - CSS3  
 - JavaScript 
 - Git & GitHub for version control
+
+## Github Page
+https://micaiahhill.github.io/my-portfolio/
